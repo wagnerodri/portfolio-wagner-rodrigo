@@ -1,0 +1,15 @@
+
+# Configuracoes do Windows
+Thumbs.db
+desktop.ini
+
+# Arquivos temporarios e logs
+*.log
+*.tmp
+
+# Configuracoes de editores
+.vscode/
+.idea/
+
+# Arquivos do sistema operacional
+.DS_Store
