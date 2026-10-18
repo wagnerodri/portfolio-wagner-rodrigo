@@ -24,8 +24,11 @@ Praticar desenvolvimento web, organização de arquivos e controle de versão co
 
 ## Publicação
 
-O projeto poderá ser publicado utilizando o GitHub Pages.
+O portfólio será publicado utilizando o GitHub Pages, permitindo
+acessar a página diretamente pelo navegador.
 
----
+## Acesso ao projeto
 
-Desenvolvido por Wagner Rodrigo.
+O código-fonte está disponível neste repositório do GitHub.
+As atualizações do projeto são organizadas em branches e integradas
+à branch principal por meio de Pull Requests.
